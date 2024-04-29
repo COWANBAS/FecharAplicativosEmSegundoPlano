@@ -1,0 +1,1 @@
+Um modulo para limitar e fechar os serviços e aplicativos em segundo plano de uma maneira mais rapida do que o android costuma fazer, Assim encerrando mais rapidamente e economizando mais bateria para o dia a dia
